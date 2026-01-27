@@ -1,5 +1,6 @@
 nginx
 #支持私库
 docker.io/pytorch/pytorch:2.10.0-cuda13.0-cudnn9-devel
+docker.io/pytorch/pytorch:2.10.0-cuda12.8-cudnn9-devel
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist

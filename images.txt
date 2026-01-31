@@ -1,1 +1,1 @@
-nvcr.io/nvidia/pytorch:25.03-py3
+docker.io/kubeflow/training-operator:v1-855e096

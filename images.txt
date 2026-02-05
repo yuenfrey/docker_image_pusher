@@ -1,4 +1,1 @@
-docker.io/volcanosh/vc-controller-manager:v1.12.0
-docker.io/volcanosh/vc-scheduler:v1.12.0
-docker.io/volcanosh/vc-webhook-manager:v1.12.0
-docker.io/volcanosh/vc-agent:v1.12.0
+docker.io/projecthami/volcano-vgpu-device-plugin:v1.11.0

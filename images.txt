@@ -1,1 +1,1 @@
-docker.io/projecthami/volcano-vgpu-device-plugin:v1.11.0
+docker.io/library/alpine:3.10

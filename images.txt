@@ -1,1 +1,1 @@
-vllm/vllm-openai:cu130-nightly
+thufeifeibear/xdit-dev:0.3.4

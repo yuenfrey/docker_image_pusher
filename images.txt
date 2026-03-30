@@ -1,1 +1,1 @@
-thufeifeibear/xdit-dev:0.3.4
+xprobe/xinference:v2.4.0

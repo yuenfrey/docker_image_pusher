@@ -1,1 +1,1 @@
-xprobe/xinference:v2.4.0
+nvidia/cuda:13.2.0-cudnn-runtime-ubuntu24.04

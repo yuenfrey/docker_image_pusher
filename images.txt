@@ -1,1 +1,1 @@
-pytorch/pytorch:2.6.0-cuda12.4-cudnn9-devel
+vllm/vllm-omni:v0.18.0

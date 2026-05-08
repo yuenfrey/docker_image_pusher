@@ -1,1 +1,1 @@
-lmsysorg/sglang:latest-cu130
+vllm/vllm-openai:minimax27

@@ -1,1 +1,1 @@
-vllm/vllm-openai:minimax27
+ghcr.io/ai-dock/comfyui:latest

@@ -1,1 +1,1 @@
-vllm/vllm-omni:v0.27.0rc1
+vllm/vllm-omni:v0.26.0

@@ -1,1 +1,1 @@
-registry.k8s.io/e2e-test-images/agnhost:2.39
+ghcr.io/mellanox/k8s-rdma-shared-dev-plugin:v1.5.4

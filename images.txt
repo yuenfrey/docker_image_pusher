@@ -1,1 +1,1 @@
-ghcr.io/kvaps/fio:3.38
+vllm/vllm-openai:v0.32.0-cu129-ubuntu2404

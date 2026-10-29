@@ -1,1 +1,1 @@
-vllm/vllm-openai:v0.32.0-cu129-ubuntu2404
+lmsysorg/sglang:dev-dsv41
